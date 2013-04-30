@@ -1,6 +1,7 @@
 ---
 title: foobar
 author: frank
+published: true
 ---
 
 # Hallo Welt
